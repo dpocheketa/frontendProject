@@ -1,3 +1,4 @@
+.DS_Store
 step3/.*
 step3/node_modules
 step3/bower_components
