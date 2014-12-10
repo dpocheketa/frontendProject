@@ -1,0 +1,22 @@
+{
+  "name": "frontendProject",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:dpocheketa/frontendProject.git"
+  },
+  "author": "dpocheketa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dpocheketa/frontendProject/issues"
+  },
+  "homepage": "https://github.com/dpocheketa/frontendProject",
+  "devDependencies": {
+    "gulp": "^3.8.10"
+  }
+}

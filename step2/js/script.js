@@ -1,0 +1,5 @@
+$(function(){
+
+	$(".flexslider").flexslider();
+
+});

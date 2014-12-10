@@ -1,0 +1,5 @@
+step3/.*
+step3/node_modules
+step3/bower_components
+step3/test
+step3/tests
