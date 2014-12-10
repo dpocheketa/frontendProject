@@ -1,4 +1,4 @@
-var dateModule = require("./date");
+var dateModule = require("date");
 
 console.log("testNode.js");
 
