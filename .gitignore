@@ -1,7 +1,8 @@
 .DS_Store
-step3/.*
-step3/node_modules
-step3/bower_components
-step3/test
-step3/tests
-step3/build
+**/.*
+**/node_modules
+**/bower_components
+**/test
+**/tests
+**/build
+**/dist
